@@ -17,7 +17,8 @@
 ```
 
 关于Secrets、TOKEN的小知识
-首先需要获取 Github Token: 点击这里 获取,
+
+首先需要获取 Github Token: 点击 https://github.com/settings/tokens/new 获取,
 Note项填写一个名称,Select scopes不理解就全部打勾,操作完成后点击下方Generate token
 
 复制页面中生成的 Token,并保存到本地,Token 只会显示一次!
