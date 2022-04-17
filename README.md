@@ -9,7 +9,7 @@
 ```
 2. 或者添加下面代码到feeds.conf.default文件
 ```bash
- src-git liuran001_packages https://github.com/1287329/openwrt-diy
+ src-git 1287329_openwrt-diy https://github.com/1287329/openwrt-diy
 ```
 3. 先cd进package目录，然后执行
 ```bash
